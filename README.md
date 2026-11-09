@@ -37,7 +37,7 @@ This project can be deployed easily using Vercel or Netlify.
 
 ## Live Demo
 
-(Your deployment link here)
+https://kodtrain-lms.vercel.app/
 
 ---
 
